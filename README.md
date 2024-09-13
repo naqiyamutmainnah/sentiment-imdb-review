@@ -3,12 +3,12 @@
 visit streamlit url: https://imdbsentimentanalysis.streamlit.app/
 
 ## How To Use IMDb Movie Review Sentiment Analysis in your local ?
-1. clone this repository
-2. open terminal
-3. write this line
+1. Clone this repository
+2. Open terminal
+3. Write this line
    `pip install -r requirements.txt`
-4. next
+4. Next
    `streamlit run app.py`
-5. open localhost
-6. write your text for movie review
-7. get your sentiment prediction category!
+5. Open localhost
+6. Write your text for movie review
+7. Get your sentiment prediction category!
