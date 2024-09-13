@@ -12,3 +12,5 @@ visit streamlit url: https://imdbsentimentanalysis.streamlit.app/
 5. Open localhost
 6. Write your text for movie review
 7. Get your sentiment prediction category!
+
+![Preview Streamlit](screenshot-imdb.png)
